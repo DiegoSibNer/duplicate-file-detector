@@ -1,0 +1,5 @@
+Grupo,Archivo,Ruta,Tamaño (bytes),Fecha modificación,Hash parcial,Hash completo
+G1,archivo_01.jpg,C:/Users/Azul Romero/Desktop/PRUEBAS_SISTEMA\archivo_01.jpg,197502,2026-05-13 17:01,bf9f0118,c51c65b713ea6403f165c0e3754b563b
+G1,foto.jpg,C:/Users/Azul Romero/Desktop/PRUEBAS_SISTEMA\foto.jpg,197502,2026-05-13 17:01,bf9f0118,c51c65b713ea6403f165c0e3754b563b
+G2,vacio.txt,C:/Users/Azul Romero/Desktop/PRUEBAS_SISTEMA\vacio.txt,0,2026-05-13 17:09,811c9dc5,d41d8cd98f00b204e9800998ecf8427e
+G2,vacio.txt,C:/Users/Azul Romero/Desktop/PRUEBAS_SISTEMA\Subcarpeta\vacio.txt,0,2026-05-13 17:09,811c9dc5,d41d8cd98f00b204e9800998ecf8427e
